@@ -1,8 +1,8 @@
 ## Hello there! 👋 
 
-Ridzuan here from Malaysia, a data analyst passionate about uncovering insights and solving problems through data.  
+- Ridzuan here from 🇲🇾, a data analyst passionate about uncovering insights and solving problems through data, and now seeking to transition into a data science role to deepen my expertise and contribute to innovative, data-driven solutions.  
 
-## About Me ✨  
+## About Me 🤓  
 - 💼 **Data Analyst @ MR DIY Malaysia**.
 - 🔹 Skilled in **Excel** and **SQL**, with hands-on experience in **retail analytics** and data-driven decision-making.
 - 🚀 Currently advancing my skills by learning **Python** and **Power BI** to broaden my analytical capabilities.
@@ -10,16 +10,17 @@ Ridzuan here from Malaysia, a data analyst passionate about uncovering insights 
 - 🎯 Aspiring **Data Scientist** eager to develop expertise in machine learning, predictive analytics, and advanced data modeling. 
 
 ## Looking to Collaborate 🤝  
-I'm actively looking for opportunities to **collaborate with data scientists** and learn from their expertise. My goal is to enhance my skills in advanced analytics and transition into the exciting world of **data science**.  
+- I'm actively looking for opportunities to **collaborate with data scientists** and learn from their expertise. My goal is to enhance my skills in advanced analytics and transition into the exciting world of **data science**.  
 
-If you're interested in sharing knowledge, working on projects together, or mentoring, feel free to reach out. I am more than happy to contribute.
+- If you're interested in sharing knowledge, working on projects together, or mentoring, feel free to reach out. I am more than happy to contribute.
 
 ## What Drives Me 🚀  
 - Lifelong learning and adapting to new challenges.
 - Developing impactful solutions through data science techniques.  
 
 ## Let's Connect 🌐  
-[**LinkedIn Profile**](https://www.linkedin.com/in/ridzuanayup/)
+- [**LinkedIn**](https://www.linkedin.com/in/ridzuanayup/)
+
 
 
 
