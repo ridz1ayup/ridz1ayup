@@ -1,6 +1,6 @@
 ## Hello there! 👋 
 
-- Ridzuan here from Malaysia, a data analyst passionate about uncovering insights and solving problems through data, and now seeking to transition into a data science role to deepen my expertise and contribute to innovative, data-driven solutions.  
+- Ridzuan here from Malaysia, a data analyst passionate about uncovering insights and solving problems through data and now seeking to transition into a data science role to deepen my expertise and contribute to innovative, data-driven solutions.  
 
 ## About Me 🤓  
 - 💼 **Data Analyst @ MR DIY Malaysia**.
